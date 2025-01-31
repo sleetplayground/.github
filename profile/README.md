@@ -11,15 +11,15 @@ contact me at sleetdesign.nft@ud.me, to find out
 
 SLEET KEY - NEAR ACCOUNT KEY labeling/viewing/creating
 <br/>
-❄️ ACCESS: https://key.sleet.near.page/
+❄️ ACCESS: https://sleetkey.near.page/
 <br/>
 🐱 CODE: https://github.com/sleetplayground/sleet_key
 
 SLEET CREATE - NEAR ACCOUNT CREATION PLAYGROUND
 <br/>
-❄️ ACCESS:
+❄️ ACCESS: https://sleetplayground.github.io/sleet_create/
 <br/>
-🐱 CODE:
+🐱 CODE: https://github.com/sleetplayground/sleet_create
 
 SLEET MARKETPLACE - NEAR ACCOUNT MARKETPLACE
 <br/>
@@ -39,6 +39,8 @@ RUGFACTORY - NEAR TOKEN CREATION PLAYGROUND
 🐱
 
 web3stick - just a stick figure, join the community
+🔗 ACCESS: https://web3stick.near.page/
+🐱 CODE: https://github.com/color-snake/web3stick
 👀 more coming soon
 
 
