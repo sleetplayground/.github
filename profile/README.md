@@ -6,9 +6,7 @@ if this is what my play looks like imagine what I could do for you.
 contact me at sleetdesign.nft@ud.me, to find out
 
 
-
----
-
+![](../src/sleet_banner_100px_7d84b2.svg)
 
 ### SLEET NEAR TOOLS/SERVICES
 
@@ -34,9 +32,7 @@ RUGFACTORY - NEAR TOKEN CREATION PLAYGROUND
 
 
 
-
-----
-
+![](../src/sleet_banner_100px_8089b7.svg)
 
 Copyright: 2025 by SLEET
 🐱 https://github.com/sleetplayground
