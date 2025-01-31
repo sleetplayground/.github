@@ -17,19 +17,26 @@ SLEET KEY - NEAR ACCOUNT KEY labeling/viewing/creating
 🐱 CODE:
 
 SLEET CREATE - NEAR ACCOUNT CREATION PLAYGROUND
+<br/>
 ❄️ ACCESS:
+<br/>
 🐱 CODE:
 
 SLEET MARKETPLACE - NEAR ACCOUNT MARKETPLACE
+<br/>
 ❄️ COMING SOMETIME MAYBE
 
 SLEET DESIGN - professional web4 design service
+<br/>
 ❄️ I need to create a webpage for this
+<br/>
 ✉️  sleetdesign.nft@ud.me
 
 
 RUGFACTORY - NEAR TOKEN CREATION PLAYGROUND
+<br/>
 🏉
+<br/>
 🐱
 
 
@@ -37,7 +44,11 @@ RUGFACTORY - NEAR TOKEN CREATION PLAYGROUND
 ![](../src/sleet_banner_100px_8089b7.svg)
 
 Copyright: 2025 by SLEET
+<br/>
 🐱 https://github.com/sleetplayground
+<br/>
 🦊 https://gitlab.com/sleet-dev
+<br/>
 𝕏 https://x.com/sleetname
+<br/>
 ✉️ sleetdesign.nft@ud.me
