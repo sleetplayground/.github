@@ -63,4 +63,6 @@ Copyright: 2025 by SLEET
 <br/>
 𝕏 https://x.com/sleetname
 <br/>
+〇 https://sleet.near.social
+<br/>
 ✉️ sleetdesign.nft@ud.me
