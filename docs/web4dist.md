@@ -20,8 +20,8 @@ echo $NEAR_ENV
 deploy
 
 ```sh
-npx web4-deploy dist web4.sleet.testnet --nearfs
-npx web4-deploy dist web4.sleet.near --nearfs
+npx web4-deploy SLEET_WEB web4.sleet.testnet --nearfs
+npx web4-deploy SLEET_WEB web4.sleet.near --nearfs
 ```
 - can be run with or without --nearfs
 
