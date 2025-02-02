@@ -17,7 +17,7 @@ SLEET KEY - NEAR ACCOUNT KEY labeling/viewing/creating
 
 SLEET CREATE - NEAR ACCOUNT CREATION PLAYGROUND
 <br/>
-❄️ ACCESS: https://sleetplayground.github.io/sleet_create/
+❄️ ACCESS: https://the-sunshining.gitlab.io/Sunny-Stuff/web3/sleet-account/
 <br/>
 🐱 CODE: https://github.com/sleetplayground/sleet_create
 

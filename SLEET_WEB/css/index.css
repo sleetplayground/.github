@@ -1,0 +1,38 @@
+/* Google Font  */
+@import url('https://fonts.googleapis.com/css2?family=Offside&display=swap');
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    scroll-snap-type: y mandatory; /* Ensure both html and body are set to scroll snap */
+}
+
+body {
+    text-align: center;
+    font-family: "Offside", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    background-color: #D9DBF1;
+    color: #000000;
+    overflow-y: scroll; /* Ensure scrolling on body */
+}
+
+header, section {
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 0px;
+    place-items: center;
+
+    scroll-snap-align: start; /* Snap to start of section */
+}
+
+
+
+
+section:nth-child(odd) {
+    background-color: #F9F9ED;
+}
