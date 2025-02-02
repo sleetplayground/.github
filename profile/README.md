@@ -57,6 +57,8 @@ send me an email today to get the wheels rolling on your project!
 
 Copyright: 2025 by SLEET
 <br/>
+🔗 https://sleet.near.page/
+<br/>
 🐱 https://github.com/sleetplayground
 <br/>
 🦊 https://gitlab.com/sleet-dev
