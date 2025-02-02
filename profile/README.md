@@ -17,7 +17,7 @@ SLEET KEY - NEAR ACCOUNT KEY labeling/viewing/creating
 
 SLEET CREATE - NEAR ACCOUNT CREATION PLAYGROUND
 <br/>
-❄️ ACCESS: (currently buid and run yourself, working on a solution to deploy this)
+❄️ ACCESS: https://sleetcreate.near.page/
 <br/>
 🐱 CODE: https://github.com/sleetplayground/sleet_create
 
