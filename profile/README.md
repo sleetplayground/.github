@@ -17,7 +17,7 @@ SLEET KEY - NEAR ACCOUNT KEY labeling/viewing/creating
 
 SLEET CREATE - NEAR ACCOUNT CREATION PLAYGROUND
 <br/>
-❄️ ACCESS: https://the-sunshining.gitlab.io/Sunny-Stuff/web3/sleet-account/
+❄️ ACCESS: (currently buid and run yourself, working on a solution to deploy this)
 <br/>
 🐱 CODE: https://github.com/sleetplayground/sleet_create
 
@@ -41,7 +41,7 @@ RUGFACTORY - NEAR TOKEN CREATION PLAYGROUND
 web3stick - just a stick figure, join the community
 🔗 ACCESS: https://web3stick.near.page/
 🐱 CODE: https://github.com/color-snake/web3stick
-👀 more coming soon
+
 
 
 
