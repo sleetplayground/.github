@@ -3,7 +3,7 @@ the one stop shop for unique names, and professional design services on near
 
 SLEET is a playground project by Nathan Renfroe and The SunShining.
 if this is what my play looks like imagine what I could do for you.
-contact me at sleetdesign.nft@ud.me, to find out
+contact me at sleetdesign.nft@ud.me, to find out.
 
 
 ![](../src/sleet_banner_100px_7d84b2.svg)
@@ -39,8 +39,10 @@ RUGFACTORY - NEAR TOKEN CREATION PLAYGROUND
 🐱
 
 web3stick - just a stick figure, join the community
-🔗 ACCESS: https://web3stick.near.page/
-🐱 CODE: https://github.com/color-snake/web3stick
+<br/>
+🔗 ACCESS: https://web3stick.on-fleek.app/
+<br/>
+🐱 CODE: https://github.com/sleetplayground/web3stick
 
 
 
