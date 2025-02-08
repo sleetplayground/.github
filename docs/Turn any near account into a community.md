@@ -5,7 +5,8 @@ Now building onchain subaccount stores.
 Check out https://web3stick.on-fleek.app/ as an example.
 
 How this works
-I have a contract that can be depoyed to any near account that can be deployed to any near account and turn that account into an on chain sub account store.
+I have a contract that can be depoyed to any near account
+and turn that account into an on chain sub account store.
 
 
 Becuase the contract is on chain there is no limits the apps that could be build to integrate with your near account. I can build a front end website with a secure web3 near check out that community can use to buy subaccounts.
