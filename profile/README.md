@@ -40,7 +40,7 @@ RUGFACTORY - NEAR TOKEN CREATION PLAYGROUND
 
 web3stick - just a stick figure, join the community
 <br/>
-🔗 ACCESS: https://web3stick.on-fleek.app/
+🔗 ACCESS: https://web3stick.near.page/
 <br/>
 🐱 CODE: https://github.com/sleetplayground/web3stick
 
