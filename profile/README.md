@@ -32,12 +32,6 @@ SLEET DESIGN - professional web4 design service
 ✉️  sleetdesign.nft@ud.me
 
 
-RUGFACTORY - NEAR TOKEN CREATION PLAYGROUND
-<br/>
-🏉
-<br/>
-🐱
-
 web3stick - just a stick figure, join the community
 <br/>
 🔗 ACCESS: https://web3stick.near.page/
