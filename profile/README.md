@@ -85,8 +85,24 @@ A small contract to proxy calls from the owner's account ID.
 
 
 ![](../src/sleet_banner_100px_8089b7.svg)
+### SLEET AI
 
-Copyright: 2025 by SLEET
+~/.nearai
+<br/>
+my near ai dot folder
+<br/>
+🐱 CODE: https://github.com/sleetplayground/.nearai
+
+hello - sleet_ai_hello
+<br/>
+sleet hello agent for interacting with hello.sleet.near
+<br/>
+🐱 CODE: https://github.com/sleetplayground/sleet_ai_hello
+
+
+![](../src/sleet_banner_100px_8089b7.svg)
+
+Copyright: 2025 by SLEET.NEAR
 <br/>
 🔗 https://sleet.near.page/
 <br/>
