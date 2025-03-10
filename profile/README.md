@@ -95,7 +95,7 @@ my near ai dot folder
 
 hello - sleet_ai_hello
 <br/>
-sleet hello agent for interacting with hello.sleet.near
+my hello playground ai agent
 <br/>
 🐱 CODE: https://github.com/sleetplayground/sleet_ai_hello
 
