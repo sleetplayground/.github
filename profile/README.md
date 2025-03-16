@@ -35,7 +35,7 @@ WEB4GO
 
 LINKHUB
 <br/>
-🔗 ACCESS: https://github.com/sleetplayground/linkhub
+🔗 ACCESS: https://linkhub.near.page/
 <br/>
 🐱 CODE: https://github.com/sleetplayground/linkhub
 
