@@ -63,9 +63,10 @@ send me an email today to get the wheels rolling on your project!
 
 Sleet Hello Contract
 <br/>
-a small hello contract written in zig
+a small hello contract
 <br/>
 🐱 ZIG: https://github.com/sleetplayground/sleet_zig_hello
+🦀 RUST: https://github.com/sleetplayground/sleet_rust_hello
 
 Sleet Managed Sub-Accounts
 <br/>
