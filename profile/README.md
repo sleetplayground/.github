@@ -99,11 +99,14 @@ my near ai dot folder
 <br/>
 🐱 CODE: https://github.com/sleetplayground/.nearai
 
-hello - sleet_ai_hello
+
+
+
+hello - sleet_ai_hello_bitte
 <br/>
-my hello playground ai agent
+my hello playground ai agent, made with bitte template
 <br/>
-🐱 CODE: https://github.com/sleetplayground/sleet_ai_hello
+🐱 CODE: https://github.com/sleetplayground/sleet_ai_hello_bitte
 
 
 ![](../src/sleet_banner_100px_8089b7.svg)
