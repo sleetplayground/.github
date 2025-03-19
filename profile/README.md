@@ -66,6 +66,7 @@ Sleet Hello Contract
 a small hello contract
 <br/>
 🐱 ZIG: https://github.com/sleetplayground/sleet_zig_hello
+<br/>
 🦀 RUST: https://github.com/sleetplayground/sleet_rust_hello
 
 Sleet Managed Sub-Accounts
