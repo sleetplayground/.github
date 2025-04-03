@@ -120,6 +120,18 @@ my hello playground ai agent, made with bitte template
 
 ![](../src/sleet_banner_100px_8089b7.svg)
 
+### Sleet Raycast Extensions
+some raycast extensions to interact with the near blockchain
+
+sleet_raycast_hello
+<br/>
+♦️ ACCESS: 
+<br/>
+🐱 CODE:
+
+
+![](../src/sleet_banner_100px_8089b7.svg)
+
 Copyright: 2025 by SLEET.NEAR
 <br/>
 🔗 https://sleet.near.page/
