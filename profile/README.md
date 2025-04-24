@@ -150,6 +150,8 @@ Copyright: 2025 by SLEET.NEAR
 <br/>
 𝕏 https://x.com/sleetname
 <br/>
+✈️ https://t.me/huggiesdotnear
+<br/>
 〇 https://sleet.near.social
 <br/>
 ✉️ sleetdesign.nft@ud.me
