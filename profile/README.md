@@ -29,7 +29,7 @@ web3stick - just a stick figure, join the community
 
 WEB4GO
 <br/>
-🔗 ACCESS: https://web4go.testnet.page/
+🔗 ACCESS: https://web4go.near.page/
 <br/>
 🐱 CODE: https://github.com/sleetplayground/web4go
 
