@@ -102,11 +102,6 @@ an improved version of the sub account store contract written in rust
 <br/>
 🦀 RUST: https://github.com/sleetplayground/sleet_subaccount_store_rust
 
-sleet_color_palette_contract
-<br/>
-a small near smart contract for color palettes written in zig
-<br/>
-⚡️ ZIG: https://github.com/sleetplayground/sleet_color_palette_contract_zig
 
 web4-min-contract - written in zig
 <br/>
