@@ -113,6 +113,12 @@ A small contract to proxy calls from the owner's account ID.
 <br/>
 🍴 FORK: https://github.com/sleetplayground/small-proxy-contract
 
+sleet_zig_playground
+<br/>
+a playground for zig smart contracts
+<br/>
+🦊 https://gitlab.com/sleet-dev/sleet-near-smart-contracts/sleet_zig_playground
+
 
 ![](../src/sleet_banner_100px_8089b7.svg)
 ### SLEET AI
