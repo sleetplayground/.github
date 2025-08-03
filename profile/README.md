@@ -7,47 +7,10 @@ contact me at sleetdesign.nft@ud.me, to find out.
 
 
 ![](../src/sleet_banner_100px_7d84b2.svg)
-### SLEET WEB4 Pages
-
-SLEET KEY - NEAR ACCOUNT KEY labeling/viewing/creating
-<br/>
-❄️ ACCESS: https://sleetkey.near.page/
-<br/>
-🐱 CODE: https://github.com/sleetplayground/sleet_key
-
-SLEET CREATE - NEAR ACCOUNT CREATION PLAYGROUND
-<br/>
-❄️ ACCESS: https://sleetcreate.near.page/
-<br/>
-🐱 CODE: https://github.com/sleetplayground/sleet_create
-
-web3stick - just a stick figure, join the community
-<br/>
-🔗 ACCESS: https://web3stick.near.page/
-<br/>
-🐱 CODE: https://github.com/sleetplayground/web3stick
 
 
 
-LINKHUB
-<br/>
-🔗 ACCESS: https://linkhub.near.page/
-<br/>
-🐱 CODE: https://github.com/sleetplayground/linkhub
-
-
-SLEET MARKETPLACE - NEAR ACCOUNT MARKETPLACE
-<br/>
-❄️ COMING SOMETIME MAYBE
-
-SLEET DESIGN - professional web4 design service
-<br/>
-❄️ I need to create a webpage for this
-<br/>
-✉️  sleetdesign.nft@ud.me
-
-
-### sleet hello web 4 pages
+### sleet hello near dapp pages
 some starter templates
 
 sleet_web_hello - https://github.com/sleetplayground/sleet_web_hello
