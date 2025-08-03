@@ -17,13 +17,20 @@ sleet_web_hello
 <br/>
 https://github.com/sleetplayground/sleet_web_hello
 <br/>
-uses near api js and near wallet selector and only one wallet
+🌐 uses near api js and near wallet selector and only one wallet
 
 sleet_web4_hello
 <br/>
 https://github.com/sleetplayground/sleet_web4_hello
 <br/>
-uses web4 login
+🌐 uses web4 login
+
+
+sleet_hot_hello
+<br/>
+https://github.com/sleetplayground/sleet_hot_hello
+<br/>
+🌐 yet another near hello dapp, this one uses the new hot near wallet selector
 
 
 ![](../src/sleet_banner_100px_7d84b2.svg)
