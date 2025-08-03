@@ -13,11 +13,15 @@ contact me at sleetdesign.nft@ud.me, to find out.
 ### sleet hello near dapp pages
 some starter templates
 
-sleet_web_hello - https://github.com/sleetplayground/sleet_web_hello
+sleet_web_hello
+<br/>
+https://github.com/sleetplayground/sleet_web_hello
 <br/>
 uses near api js and near wallet selector and only one wallet
 
-sleet_web4_hello - https://github.com/sleetplayground/sleet_web4_hello
+sleet_web4_hello
+<br/>
+https://github.com/sleetplayground/sleet_web4_hello
 <br/>
 uses web4 login
 
