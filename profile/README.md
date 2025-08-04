@@ -11,7 +11,7 @@ contact me at sleetdesign.nft@ud.me, to find out.
 
 
 ### sleet hello near dapp pages
-some starter templates
+some starter templates, made with html, css, and js.
 
 sleet_web_hello
 <br/>
