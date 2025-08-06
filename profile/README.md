@@ -32,6 +32,12 @@ https://github.com/sleetplayground/sleet_hot_hello
 <br/>
 🌐 yet another near hello dapp, this one uses the new hot near wallet selector
 
+sleet_fastintear_hello
+<br/>
+https://github.com/sleetplayground/sleet_fastintear_hello
+<br/>
+ 🌐 a fast hello near dapp that uses, fastnear js and intear wallet 
+
 
 ![](../src/sleet_banner_100px_7d84b2.svg)
 ### SLEET DESIGN PORTFOLIO
