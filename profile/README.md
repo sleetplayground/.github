@@ -1,5 +1,5 @@
 # SLEET
-the one stop shop for unique names, and professional design services on near
+building the one stop shop for unique names, and professional design services on near
 
 SLEET is a playground project by Nathan Renfroe and The SunShining.
 if this is what my play looks like imagine what I could do for you.
