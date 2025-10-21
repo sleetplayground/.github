@@ -133,6 +133,16 @@ The NEAR API is a collection of language-specific SDKs that allow developers to 
 <br/>
 🔗 https://docs.near.org/tools/near-api
 
+personal near api example playgrounds: (dm me if you are interested in seeing examples)
+<br/>
+https://github.com/sleetplayground/fastintear_example_playground
+<br/>
+https://github.com/sleetplayground/near_api_js_examples
+<br/>
+https://github.com/sleetplayground/near_api_rs_examples
+<br/>
+
+
 **sleet playground**
 <br/>
 play, learn, and build on near
