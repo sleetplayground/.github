@@ -163,6 +163,8 @@ Copyright: 2025 by SLEET.NEAR
 <br/>
 ✈️ https://t.me/huggiesdotnear
 <br/>
+👾 https://discord.gg/Kz9QsGtHw3
+<br/>
 〇 https://sleet.near.social
 <br/>
 ✉️ sleetdesign.nft@ud.me
