@@ -141,6 +141,7 @@ https://github.com/sleetplayground/near_api_js_examples
 <br/>
 https://github.com/sleetplayground/near_api_rs_examples
 <br/>
+https://github.com/sleetplayground/near-kit-playground
 
 
 **sleet playground**
