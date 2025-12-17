@@ -129,7 +129,7 @@ sleet_raycast_hello
 
 ![](../src/sleet_banner_100px_8089b7.svg)
 
-### NEAR API
+**NEAR API**
 The NEAR API is a collection of language-specific SDKs that allow developers to interact with the NEAR blockchain from both frontend and backend applications.
 <br/>
 🔗 https://docs.near.org/tools/near-api
@@ -150,6 +150,15 @@ https://github.com/sleetplayground/near-kit-playground
 play, learn, and build on near
 <br/>
 🔗 https://sleetplayground.near.page/
+
+other sleet github orgs
+- https://github.com/sleet-as
+- https://github.com/sleet-lua
+- https://github.com/sleet-js
+- https://github.com/sleet-rs
+- https://github.com/sleet-iced
+- https://github.com/sleetdata
+
 
 ![](../src/sleet_banner_100px_8089b7.svg)
 
