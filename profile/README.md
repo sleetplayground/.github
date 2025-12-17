@@ -117,12 +117,13 @@ my hello playground ai agent, made with bitte template
 
 ![](../src/sleet_banner_100px_8089b7.svg)
 
-### Sleet Raycast Extensions
-some raycast extensions to interact with the near blockchain
+### Plugins
 
-sleet_raycast_hello
+obsidian-plugin-near-kit
 <br/>
-♦️ ACCESS: 
+🐱 CODE: https://github.com/obsidianplayground/obsidian-plugin-near-kit
+
+sleet_raycast_hello 
 <br/>
 🐱 CODE: https://github.com/sleetplayground/sleet_raycast_hello
 
