@@ -162,7 +162,7 @@ other sleet github orgs
 
 ![](../src/sleet_banner_100px_8089b7.svg)
 
-Copyright: 2025 by SLEET.NEAR
+COPYRIGHT: 2025 by SLEET.NEAR
 <br/>
 🔗 https://sleet.near.page/
 <br/>
@@ -177,5 +177,3 @@ Copyright: 2025 by SLEET.NEAR
 👾 https://discord.gg/Kz9QsGtHw3
 <br/>
 〇 https://sleet.near.social
-<br/>
-✉️ sleetdesign.nft@ud.me
