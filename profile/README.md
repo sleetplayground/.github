@@ -152,6 +152,7 @@ play, learn, and build on near
 🔗 https://sleetplayground.near.page/
 
 other sleet github orgs
+- https://github.com/sleet-web4
 - https://github.com/sleet-as
 - https://github.com/sleet-lua
 - https://github.com/sleet-js
