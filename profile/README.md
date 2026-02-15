@@ -154,6 +154,7 @@ play, learn, and build on near
 other sleet github orgs
 - https://github.com/sleet-web4
 - https://github.com/sleet-as
+- https://github.com/sleet-zig
 - https://github.com/sleet-lua
 - https://github.com/sleet-js
 - https://github.com/sleet-rs
