@@ -2,8 +2,6 @@
 specializing in unique names and meme tokens and professional design services on near
 
 SLEET is a playground project by Nathan Renfroe and The SunShining.
-if this is what my play looks like imagine what I could do for you.
-contact me at sleetdesign.nft@ud.me, to find out.
 
 
 ![](../src/sleet_banner_100px_7d84b2.svg)
